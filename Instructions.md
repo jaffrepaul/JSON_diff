@@ -1,0 +1,2 @@
+Using the language of your choice write a script that will find the differences between 2 JSON objects. Please use the attached files. Keep in mind your script should not be specific to the provided files and should work with any JSON. 
+You may output the differences in whatever format you wish as long as it's clear. 
